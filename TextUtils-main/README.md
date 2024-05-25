@@ -5,6 +5,7 @@ Text Utils is a web application built with React that offers a set of text manip
 ## Table of Contents
 
 - [Features](#features)
+- [View](#view)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,6 +18,10 @@ Text Utils is a web application built with React that offers a set of text manip
 - **Remove Extra Spaces**: Clean up extra spaces from the input text.
 - **Text-to-Speech**: Convert text to speech using web speech API.
 - **Additional Utilities**: Additional text manipulation tools (to be updated).
+
+## View
+
+You can view and use the application live at [Text Utils](https://text-utils-pi-plum.vercel.app/).
 
 ## Installation
 
